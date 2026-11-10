@@ -1,6 +1,3 @@
-# Data is downloaded by notebooks/01_download_data.ipynb -- don't commit it
-data/
-
 # Python / Jupyter clutter
 __pycache__/
 *.pyc
