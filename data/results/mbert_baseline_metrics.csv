@@ -1,0 +1,4 @@
+model,dataset,majority_label,accuracy,macro_f1
+majority_class,SMP Chinese Test,neutral,0.2119047619047619,0.058284217419777344
+majority_class,GoEmotions English Test,neutral,0.7706333973128598,0.14507678410117433
+majority_class,Combined Multilingual Test,neutral,0.4257898603967671,0.09954479086146183
