@@ -1,0 +1,11 @@
+﻿row,post_id,role,label,A_is,B_is,C_is
+1,usual_train_10560,slang,angry,prompt_2,prompt_3,prompt_1
+2,usual_train_05761,slang,angry,prompt_3,prompt_1,prompt_2
+3,usual_train_18245,slang,happy,prompt_1,prompt_2,prompt_3
+4,usual_train_23814,slang,angry,prompt_3,prompt_1,prompt_2
+5,usual_train_06761,slang,angry,prompt_2,prompt_3,prompt_1
+6,usual_train_01399,control,angry,prompt_2,prompt_3,prompt_1
+7,usual_train_00058,control,angry,prompt_1,prompt_2,prompt_3
+8,usual_train_03047,control,happy,prompt_2,prompt_3,prompt_1
+9,usual_train_01548,control,angry,prompt_2,prompt_3,prompt_1
+10,usual_train_09025,control,angry,prompt_1,prompt_2,prompt_3
