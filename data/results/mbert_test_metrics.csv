@@ -1,0 +1,4 @@
+model,dataset,n,accuracy,macro_f1
+Finetuned-mBERT,SMP Chinese Test,3360,0.7458333333333333,0.7145352071092259
+Finetuned-mBERT,GoEmotions English Test,2084,0.8661228406909789,0.7357274808498634
+Finetuned-mBERT,Combined Multilingual Test,5444,0.7918809698750918,0.7293457788528518
