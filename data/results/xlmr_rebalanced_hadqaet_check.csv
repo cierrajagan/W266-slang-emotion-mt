@@ -1,0 +1,4 @@
+model,text version,n,accuracy,macro_f1,% predicted neutral
+Finetuned-XLMR-rebalanced,Chinese original,4038,0.79,0.767,3.3
+Finetuned-XLMR-rebalanced,Google MT English,4038,0.557,0.606,23.3
+Finetuned-XLMR-rebalanced,Human-quality English,4038,0.6,0.629,18.8

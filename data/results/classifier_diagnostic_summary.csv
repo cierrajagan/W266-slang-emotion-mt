@@ -1,0 +1,19 @@
+﻿posts,classifier,text version,n,accuracy,macro_f1,% predicted neutral
+all HADQAET posts,mBERT original (nb 04),Chinese original,4038,0.753,0.734,4.3
+all HADQAET posts,mBERT original (nb 04),Google MT English,4038,0.335,0.467,55.3
+all HADQAET posts,mBERT original (nb 04),Human-quality English,4038,0.378,0.499,49.9
+all HADQAET posts,mBERT rebalanced (nb 04b),Chinese original,4038,0.749,0.732,4.7
+all HADQAET posts,mBERT rebalanced (nb 04b),Google MT English,4038,0.507,0.549,24.0
+all HADQAET posts,mBERT rebalanced (nb 04b),Human-quality English,4038,0.553,0.579,19.3
+all HADQAET posts,XLM-R rebalanced (nb 04c),Chinese original,4038,0.79,0.767,3.3
+all HADQAET posts,XLM-R rebalanced (nb 04c),Google MT English,4038,0.557,0.606,23.3
+all HADQAET posts,XLM-R rebalanced (nb 04c),Human-quality English,4038,0.6,0.629,18.8
+posts with a post-edit,mBERT original (nb 04),Chinese original,2952,0.75,0.724,4.1
+posts with a post-edit,mBERT original (nb 04),Google MT English,2952,0.308,0.441,57.2
+posts with a post-edit,mBERT original (nb 04),Human-quality English,2952,0.366,0.483,49.7
+posts with a post-edit,mBERT rebalanced (nb 04b),Chinese original,2952,0.746,0.718,4.3
+posts with a post-edit,mBERT rebalanced (nb 04b),Google MT English,2952,0.475,0.514,25.2
+posts with a post-edit,mBERT rebalanced (nb 04b),Human-quality English,2952,0.538,0.554,18.9
+posts with a post-edit,XLM-R rebalanced (nb 04c),Chinese original,2952,0.788,0.76,2.9
+posts with a post-edit,XLM-R rebalanced (nb 04c),Google MT English,2952,0.53,0.582,24.3
+posts with a post-edit,XLM-R rebalanced (nb 04c),Human-quality English,2952,0.589,0.612,18.1

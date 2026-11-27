@@ -1,0 +1,4 @@
+model,text version,n,accuracy,macro_f1,% predicted neutral
+Finetuned-mBERT-rebalanced,Chinese original,4038,0.749,0.732,4.7
+Finetuned-mBERT-rebalanced,Google MT English,4038,0.507,0.549,24.0
+Finetuned-mBERT-rebalanced,Human-quality English,4038,0.553,0.579,19.3

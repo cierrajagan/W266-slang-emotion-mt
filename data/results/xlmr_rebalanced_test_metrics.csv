@@ -1,0 +1,4 @@
+model,dataset,n,accuracy,macro_f1,pct_pred_neutral
+Finetuned-XLMR-rebalanced,SMP Chinese Test,3360,0.7824404761904762,0.7488076689572116,21.428571428571427
+Finetuned-XLMR-rebalanced,GoEmotions English Test,2084,0.7207293666026872,0.6120083613428403,54.99040307101728
+Finetuned-XLMR-rebalanced,Combined Multilingual Test,5444,0.758817046289493,0.7177106327187334,34.27626745040411
